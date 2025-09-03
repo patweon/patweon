@@ -5,7 +5,7 @@
 ---
 
 ## 🧑‍💻 About Me  
-- 🌍 From Kenya  
+- 🌍 From Mars  
 - 💻 Love working with **Flutter, AI & Full-Stack Development**  
 - 📚 Always learning something new  
 - 🎯 Building apps that solve real-world problems  
